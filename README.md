@@ -1,5 +1,5 @@
 # Magic 8-ball
-## This app generates random SI strategies to help SI leaders plan their sessions.
+## This app generates random [Supplemental Instruction](https://en.wikipedia.org/wiki/Supplemental_instruction)(SI) strategies to help SI leaders plan their sessions.
 
 This has been made with: 
 
