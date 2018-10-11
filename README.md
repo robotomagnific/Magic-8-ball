@@ -1,2 +1,3 @@
 # Magic 8-ball
-#Working on this small app to generate random SI strategies to help SI leaders plan their sessions.
+#This app generates random SI strategies to help SI leaders plan their sessions.
+View online here: [http://178.128.185.150/](http://178.128.185.150/)
