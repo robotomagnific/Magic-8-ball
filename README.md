@@ -10,4 +10,4 @@ This has been made with:
 
 ### View online here: [http://178.128.185.150/](http://178.128.185.150/)
 
-Made on the campus of [East Los Angeles College](https://www.elac.edu)
+Made on the campus of [East Los Angeles College](https://www.elac.edu).
