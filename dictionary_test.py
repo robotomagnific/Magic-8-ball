@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #dictionary for Si test app
 #must add [] if you want dictionary to be indexed
 my_dictionary = {
