@@ -3,7 +3,8 @@
 from dictionary_test import my_dictionary
 import random
 y = len(my_dictionary)
-x = random.randint(0,y)
+z = (y-1)
+x = random.randint(0,z)
 
 random_key_value_pair = list(my_dictionary.items())[x]
 
@@ -14,3 +15,4 @@ value = random_key_value_pair[1]
 print (key)
 
 print (value)
+
